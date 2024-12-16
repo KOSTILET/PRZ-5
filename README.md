@@ -17,8 +17,6 @@ PRZ-5
 
 ![image](https://github.com/user-attachments/assets/c9c87a97-519d-45ab-8692-c157cefd0476)
 
-![image](https://github.com/user-attachments/assets/8761adb8-7520-496c-be35-832824d7960d)
-
 ![image](https://github.com/user-attachments/assets/44e90bc6-0e38-41ac-88b0-a306649ad527)
 
 ![image](https://github.com/user-attachments/assets/fb9fc3e9-3d64-4247-9ff3-08fea0cf7440)
