@@ -1,19 +1,23 @@
 # PRZ-5
 PRZ-5
+После установки двух виртуальных на одну из них устанавливаем Wazuh
 ![image](https://github.com/user-attachments/assets/32a43e0c-8405-44bd-8289-de2fb9d94ce6)
 
 ![image](https://github.com/user-attachments/assets/af083430-de8f-4fe7-94cb-7794fc20127f)
 
 ![image](https://github.com/user-attachments/assets/88c451f6-0640-462d-8743-d8def1e53fa9)
 
+Далее устанавливаем агента на 2 виртуалку 
 ![image](https://github.com/user-attachments/assets/454e4417-41ef-4835-b639-5ed5a4fd6077)
 
 ![image](https://github.com/user-attachments/assets/4f0e93bc-8935-4d4a-86ac-7844464c9a7d)
+Забыл сделать вовремя скрин, где видно что агент у меня был подключен
+![image](https://github.com/user-attachments/assets/2ca2cdcc-8bad-48e3-a5b0-37e636bac536)
 
+Далее устанавливаем 
 ![image](https://github.com/user-attachments/assets/a5a858c7-6d08-4dcb-8cf7-e890346059c1)
 
 ![image](https://github.com/user-attachments/assets/4b4a7572-99b0-4f82-8204-c465d651bb6c)
-
 
 ![image](https://github.com/user-attachments/assets/c9c87a97-519d-45ab-8692-c157cefd0476)
 
