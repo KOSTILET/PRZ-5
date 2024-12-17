@@ -14,11 +14,11 @@ PRZ-5
 Забыл сделать вовремя скрин, где видно что агент у меня был подключен
 ![image](https://github.com/user-attachments/assets/2ca2cdcc-8bad-48e3-a5b0-37e636bac536)
 
-Далее устанавливаем 
+Далее устанавливаем Suricata
 ![image](https://github.com/user-attachments/assets/a5a858c7-6d08-4dcb-8cf7-e890346059c1)
 
 ![image](https://github.com/user-attachments/assets/4b4a7572-99b0-4f82-8204-c465d651bb6c)
-
+Добавляем стартовую конфигурацию
 ![image](https://github.com/user-attachments/assets/c9c87a97-519d-45ab-8692-c157cefd0476)
 
 ![image](https://github.com/user-attachments/assets/44e90bc6-0e38-41ac-88b0-a306649ad527)
@@ -28,9 +28,9 @@ PRZ-5
 ![image](https://github.com/user-attachments/assets/4671cd9b-9c7a-483e-94a2-d6527e147e9c)
 
 ![image](https://github.com/user-attachments/assets/645c3828-11f6-4f76-ba1d-7bf177e60be4)
-
+После переходим в Wazuh для получения логов от Suricata 
 ![image](https://github.com/user-attachments/assets/192cb716-371c-4451-98ba-e92570dffd77)
-
+Далее при помощи докера накатываем Openvas
 ![image](https://github.com/user-attachments/assets/669f0203-1789-41e8-b3fc-c64007f9c2c8)
 
 ![image](https://github.com/user-attachments/assets/4c836325-4c24-43da-b6bb-51339e66ebb2)
@@ -40,9 +40,9 @@ PRZ-5
 ![image](https://github.com/user-attachments/assets/b61d3fa4-b164-4e79-8daf-7d49de8ce670)
 
 ![image](https://github.com/user-attachments/assets/3603d4a7-a0de-4152-a36b-0bbf51c443b3)
-
+После утановки и скачанной конфигурации видим дашборд Openvas с данными
 ![image](https://github.com/user-attachments/assets/5e610561-0787-41fd-af3c-aacd26dd0aa4)
-
+Далее производим установку Yara 
 ![image](https://github.com/user-attachments/assets/117b8d7d-71a6-477d-990a-95931280e5f3)
 
 ![image](https://github.com/user-attachments/assets/aa227a17-63c5-4f27-9c39-a1fd2c99a724)
@@ -60,5 +60,5 @@ PRZ-5
 ![image](https://github.com/user-attachments/assets/3f2ca139-6c0f-4c76-b0a7-da2cf04e26f7)
 
 ![image](https://github.com/user-attachments/assets/ed8eba10-e23c-4843-9384-672a790c22f9)
-
+Финальное это фиксация Wazuh об всех событиях которые происходили 
 ![image](https://github.com/user-attachments/assets/8f93d3ee-b2cc-4b66-b8b7-f1966a9b9cd5)
